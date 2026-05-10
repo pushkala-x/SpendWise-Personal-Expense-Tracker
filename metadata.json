@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise: Personal Expense Tracker",
+  "description": "A professional-grade personal finance dashboard featuring real-time data visualization, budgeting tools, and automated expense categorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["Finance", "Data Visualization", "Budgeting"]
+}
